@@ -1,0 +1,63 @@
+
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9; /* Color de fondo suave */
+    color: #333;
+}
+
+/* Encabezado */
+header {
+    background: #ffcccb; /* Color rosa claro */
+    color: #6a1b9a; /* Color púrpura oscuro */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navegación */
+nav {
+    margin: 10px 0;
+}
+
+nav a {
+    color: #6a1b9a;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+/* Contenido principal */
+main {
+    padding: 20px;
+}
+
+/* Estilo para los encabezados */
+h1, h2, h3 {
+    color: #ff69b4; /* Color rosa fuerte para los encabezados */
+}
+
+/* Tarjetas de contenido (conejitos) */
+.card {
+    background: #ffffff; /* Fondo blanco para las tarjetas */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    padding: 15px;
+    text-align: center; /* Centra el contenido de las tarjetas */
+}
+
+/* Imagen de conejito */
+.card img {
+    width: 100px; /* Ajusta el tamaño de la imagen del conejito */
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #ffcccb; /* Mismo color que el encabezado */
+    color: #6a1b9a; /* Color púrpura oscuro */
+}
+```
+
